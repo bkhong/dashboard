@@ -1,4 +1,4 @@
-# dashboard
+# dashboard-template
 
 ## Documentation
 https://demos.creative-tim.com/argon-dashboard-react/#/documentation/overview
